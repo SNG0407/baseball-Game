@@ -2,7 +2,7 @@
 #include <cstring>
 #include <time.h>
 using namespace std;
-
+//힘들다..
 int main()
 {
     int balls[9] = {};
